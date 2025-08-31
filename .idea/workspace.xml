@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c32cc3c-4948-452c-812e-ff70c32126ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/versions/1da37720fb0c_second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/versions/6cba4a0cf45c_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/versions/9a55c008b055_fourth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration/versions/d0af950e2767_third.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paths/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paths/answers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paths/questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/answer_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/question_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="31ztpb20qBvn6NtSMTYCZMtLgaA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.test_main | #1.executor": "Run",
+    "HTTP Request.test_main | #2.executor": "Run",
+    "HTTP Request.test_main | #3.executor": "Run",
+    "HTTP Request.test_main | #4.executor": "Run",
+    "HTTP Request.test_main | #5.executor": "Run",
+    "HTTP Request.test_main | #6.executor": "Run",
+    "HTTP Request.test_main | #7.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_assert.executor": "Run",
+    "Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_assert_400.executor": "Run",
+    "Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_assert_404.executor": "Run",
+    "Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_delete_404.executor": "Run",
+    "Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_get_404.executor": "Run",
+    "Python tests.Python tests for tests.answer_test.test_answer_assert_404.executor": "Run",
+    "Python tests.Python tests for tests.api_test.test_answer_400.executor": "Run",
+    "Python tests.Python tests for tests.api_test.test_answers.executor": "Run",
+    "Python tests.Python tests for tests.api_test.test_key_answers.executor": "Run",
+    "Python tests.Python tests for tests.api_test.test_multiply.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_delete_404.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_question_add_404.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_question_assert.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_question_assert_400.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_question_list.executor": "Run",
+    "Python tests.Python tests for tests.question_test.TestQuestion.test_question_list_404.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for tests.question_test.TestQuestion.test_question_assert_400">
+    <configuration name="testapi" type="Python.FastAPI">
+      <option name="file" value="$PROJECT_DIR$/main.py" />
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.answer_test.TestAnswer.test_answer_delete_404" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.answer_test.TestAnswer.test_answer_delete_404&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.question_test.TestQuestion.test_delete_404" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.question_test.TestQuestion.test_delete_404&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.question_test.TestQuestion.test_question_assert_400" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.question_test.TestQuestion.test_question_assert_400&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.question_test.TestQuestion.test_question_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.question_test.TestQuestion.test_question_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.question_test.TestQuestion.test_question_list_404" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.question_test.TestQuestion.test_question_list_404&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.question_test.TestQuestion.test_question_assert_400" />
+        <item itemvalue="Python tests.Python tests for tests.question_test.TestQuestion.test_delete_404" />
+        <item itemvalue="Python tests.Python tests for tests.question_test.TestQuestion.test_question_list_404" />
+        <item itemvalue="Python tests.Python tests for tests.question_test.TestQuestion.test_question_list" />
+        <item itemvalue="Python tests.Python tests for tests.answer_test.TestAnswer.test_answer_delete_404" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c32cc3c-4948-452c-812e-ff70c32126ec" name="Changes" comment="" />
+      <created>1756538916296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756538916296</updated>
+      <workItem from="1756538917326" duration="17121000" />
+      <workItem from="1756560683756" duration="1409000" />
+      <workItem from="1756605165058" duration="3591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/question_test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testapi$.coverage" NAME=" Coverage Results" MODIFIED="1756608803223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/testapi$main.coverage" NAME="main Coverage Results" MODIFIED="1756559058880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
