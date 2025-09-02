@@ -3,7 +3,7 @@
 docker-compose up --build
 
 зависимости:
-requirements.txt
+pip install -r .\requirements.txt
 
 тестирование(запускать по очереди):
 question_test.py
